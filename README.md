@@ -97,4 +97,3 @@ This project is a Vue 3 application that uses Element Plus and Axios to create a
 
 ---
 
-This setup should get you running the application smoothly. Adjust as needed based on your backend specifics.

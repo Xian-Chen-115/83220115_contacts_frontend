@@ -66,7 +66,7 @@ This project is a Vue 3 application that uses Element Plus and Axios to create a
 │   ├── utils
 │   │   └── request.js           # Axios setup and interceptors
 │   ├── views
-│   │   └── Homeview.js
+│   │   └── HomeView.js
 │   ├── App.vue
 │   ├── main.js                  # Main entry file            
 ├── public

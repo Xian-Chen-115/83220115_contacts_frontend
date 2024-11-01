@@ -1,7 +1,5 @@
 # 83220115_contacts_frontend
 
-Here's a sample `README.md` for your project:
-
 ---
 
 # Contact Management System

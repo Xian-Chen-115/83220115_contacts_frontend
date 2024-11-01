@@ -112,4 +112,3 @@ Ensure that ESLint and Prettier configurations are set to follow these conventio
 
 ---
 
-This `CODESTYLE.md` should keep the codebase clean, consistent, and easy for team members to read and maintain. Adjust any rule as needed based on team feedback or specific project requirements.

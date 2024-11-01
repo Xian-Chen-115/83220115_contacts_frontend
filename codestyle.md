@@ -1,8 +1,4 @@
 
-
-
-Here's a `CODESTYLE.md` based on general practices for Vue and JavaScript development, inspired by the content in the Alibaba article:
-
 ---
 https://developer.aliyun.com/article/850913
 
